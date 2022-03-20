@@ -11,7 +11,7 @@ export default function App() {
           <h3>let's find your word</h3>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="yoga" />
         </main>
         <footer className="App-footer">
           <a href="https://github.com/kcshrad/dictionary-react-project">
